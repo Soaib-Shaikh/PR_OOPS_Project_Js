@@ -41,7 +41,7 @@ This project demonstrates core Object-Oriented Programming (OOPS) concepts in Ja
 - `.js` files: JavaScript code implementing OOPS concepts and dynamic functionality
 
 ## How to Run
-Open the HTML files (e.g., `index.html`, `student.html`, `addemployee.html`, `displaydata.html`) in a web browser. The JavaScript files are linked and run automatically in the browser.
+Open the HTML files (e.g., `index.html`, `student.html`, `index.html`, `index1.html`) in a web browser. The JavaScript files are linked and run automatically in the browser.
 
 ## Features
 - Add, display, and delete employee and student records using forms and tables
