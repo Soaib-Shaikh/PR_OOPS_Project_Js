@@ -5,8 +5,8 @@ class Student{
     }
 
     getData(){
-        console.log(`Emp Roll No: ${this.rollno}`);
-        console.log(`Emp Name: ${this.name}`);    
+        console.log(`Roll No: ${this.rollno}`);
+        console.log(`Name: ${this.name}`);    
     }
 }
 
@@ -26,10 +26,10 @@ class Person extends Student{
     }
 }
 
-const emps = [new Person('1','Soaib','90','80'),
-            new Person('2','Sam','70','60'),
-            new Person('3','Neel','100','90'),
+const students = [new Person('1','Soaib','90','80'),
+            new Person('2','Neel','70','60'),
+            new Person('3','Mohammad','100','90'),
             new Person('4','Daksh','85','75'),
 ]
 
-emps.forEach(emp=>emp.getDetail());
+students.forEach(emp=>emp.getDetail());

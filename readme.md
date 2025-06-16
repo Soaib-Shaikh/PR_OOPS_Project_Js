@@ -1,3 +1,33 @@
+Ingheritance Project Link Here : https://pr-oops-project-js-ux9q.vercel.app/
+
+1. Add Employee
+
+![alt text](./output/add_employee.png)
+
+2. Display Employee
+
+![alt text](./output/displaydata.png
+
+3. Class & Object 
+
+![alt text](./output/class_object.png)
+
+4. Constructor  
+
+![alt text](./output/Constructor.png)
+
+5. Inheritance
+
+![alt text](./output/employee.png)
+![alt text](./output/student.png)
+
+6. Polymorphism
+
+![alt text](./output/polymorphism.png)
+
+7. Abstraction
+
+![alt text](./output/abstraction.png)
 # OOPS Concepts in JavaScript Project
 
 This project demonstrates core Object-Oriented Programming (OOPS) concepts in JavaScript, including Constructor, Inheritance, Polymorphism, and Abstraction. The workspace contains HTML and JavaScript files organized into folders by concept.
